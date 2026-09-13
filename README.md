@@ -6,7 +6,7 @@ I'm a software developer and Ph.D. candidate based in Prague, Czech Republic, fo
 
 My main research interest is applying AI to **photovoltaic power forecasting** and **Battery Energy Storage Systems (BESS)**, while professionally I work on ML models, data pipelines, APIs, and backend infrastructure.
 
-[🎮 Interactive Portfolio](https://www.jakub-hampejs.cz/) · [💼 LinkedIn](https://linkedin.com/in/jakub-hampejs-7b291636b) · [📄 CV](https://www.jakub-hampejs.cz/cv)
+[🎮 Interactive Portfolio](https://www.jakub-hampejs.cz/) · [📄 CV](https://www.jakub-hampejs.cz/cv)
 
 ---
 
@@ -165,14 +165,14 @@ A memory card game implemented as a web/programming project.
 
 ## 📈 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuba129cz\&show_icons=true\&hide_border=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuba129cz&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
 ## 📫 Contact
 
 📧 [contact@jakub-hampejs.cz](mailto:contact@jakub-hampejs.cz)
-🌐 [jakub-hampejs.cz](https://www.jakub-hampejs.cz/)
+🌐 [jakub-hampejs.cz](https://www.jakub-hampejs.cz/CV)
 💼 [LinkedIn](https://linkedin.com/in/jakub-hampejs-7b291636b)
 
 ---
