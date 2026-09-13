@@ -6,7 +6,7 @@ I'm a software developer and Ph.D. candidate based in Prague, Czech Republic, fo
 
 My main research interest is applying AI to **photovoltaic power forecasting** and **Battery Energy Storage Systems (BESS)**, while professionally I work on ML models, data pipelines, APIs, and backend infrastructure.
 
-[🌐 Website](https://www.jakub-hampejs.cz/) · [💼 LinkedIn](https://linkedin.com/in/jakub-hampejs-7b291636b) · [📄 CV](https://www.jakub-hampejs.cz/cv)
+[🎮 Interactive Portfolio](https://www.jakub-hampejs.cz/) · [💼 LinkedIn](https://linkedin.com/in/jakub-hampejs-7b291636b) · [📄 CV](https://www.jakub-hampejs.cz/cv)
 
 ---
 
@@ -102,11 +102,18 @@ Research topic: **Application of AI for prediction and control optimization of B
 
 ### Czech University of Life Sciences Prague
 
-**M.Sc. / Ing. in Information and Control Engineering** · 2023 – 2025
+**Ing. in Information and Control Engineering** · 2023 – 2025
 
 Graduated with honors.
 
-Thesis: **Mathematical model for energy production prediction based on weather forecasts for PV power plants**
+**Thesis:** *Mathematical model for energy production prediction based on weather forecasts for PV power plants*
+
+Developed a machine learning model for photovoltaic power forecasting based on weather forecasts and deployed the resulting model as an interactive web application.
+
+**Links:**
+
+* ☀️ **[Live Demo](https://huggingface.co/spaces/Kubas126cz/FVEABA)**
+* 📄 **[Diploma Thesis](https://www.jakub-hampejs.cz/cv/assets/documents/pv_forecast/diploma_thesis.pdf)**
 
 ### Additional Education
 
