@@ -163,12 +163,6 @@ A memory card game implemented as a web/programming project.
 
 ---
 
-## 📈 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuba129cz&show_icons=true&hide_border=true&count_private=true)
-
----
-
 ## 📫 Contact
 
 📧 [contact@jakub-hampejs.cz](mailto:contact@jakub-hampejs.cz)
